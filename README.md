@@ -1,1 +1,5 @@
-# react-portfolio
+# Portfolio
+
+
+
+![Alt text](assets/screen-shot.png)
